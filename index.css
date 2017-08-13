@@ -1,0 +1,31 @@
+
+em {
+    font-weight: bold
+    text-decoration: underline;
+    color: red ;
+}
+
+body {
+    background-image: url('Linda images/StockSnap_JHJH4PS68L.jpg');
+}
+
+h1 {
+    border: 2px blue dashed;
+    padding: 10px;
+    margin: 20px;
+}
+
+.my-h2 {
+    border: 1px red solid;
+}
+
+.three-d-text {
+text-shadow: 10px 10px 5px grey;
+}
+
+.rise {
+    text-shadow: 0px 0px 0px lightgray;
+    transition-property: text-emphasis: shadow;
+    transition-duration: 500ms;
+    transition-timing-function: linear;
+}
